@@ -1,4 +1,4 @@
-class Solution {
+class SolutionTwoSum {
 
     // solved in 2 hours
 
