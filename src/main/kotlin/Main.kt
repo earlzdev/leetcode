@@ -1,5 +1,5 @@
 fun main() {
 
-    val solution = SolutionIsPalendrom()
-    solution.isPalindrome(121)
+    val solution = SolutionRomanToInteger()
+    solution.romanToInt("MCMXCIV")
 }
