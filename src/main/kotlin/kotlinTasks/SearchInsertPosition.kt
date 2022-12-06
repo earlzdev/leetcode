@@ -17,5 +17,4 @@ class SearchInsertPosition {
         answer = if(result == -1) position else result
         return answer
     }
-
 }
