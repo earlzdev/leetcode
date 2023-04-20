@@ -1,7 +1,5 @@
 class SolutionIsPalendrom {
 
-    // solved in 15 minutes
-
     fun isPalindrome(x: Int): Boolean {
         val string = x.toString()
         val list = mutableListOf<String>()

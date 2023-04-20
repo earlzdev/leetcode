@@ -1,7 +1,5 @@
 class SolutionTwoSum {
 
-    // solved in 2 hours
-
     fun twoSum(nums: IntArray, target: Int): IntArray {
 
         var result = intArrayOf()

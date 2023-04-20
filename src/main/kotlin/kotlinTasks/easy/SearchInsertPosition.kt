@@ -1,4 +1,4 @@
-
+package kotlinTasks.easy
 class SearchInsertPosition {
     fun searchInsert(nums: IntArray, target: Int): Int {
         var result = 0
