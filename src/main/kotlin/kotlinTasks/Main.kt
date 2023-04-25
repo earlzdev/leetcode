@@ -1,7 +1,8 @@
-import kotlinTasks.ValidParentheses
+import kotlinTasks.easy.isValid
 
 fun main() {
 
-val validParentless = ValidParentheses()
-    validParentless.isValid("()")
+    val valid = isValid("()[]}{")
+//    val valid = isValid("({()})")
+    println(valid)
 }
