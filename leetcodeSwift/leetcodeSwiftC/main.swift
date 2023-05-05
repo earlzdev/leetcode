@@ -7,4 +7,6 @@
 
 import Foundation
 
-print("yup")
+let climbingStairs = ClimbingStairs()
+let result = climbingStairs.climbStairs(5)
+print(result)
