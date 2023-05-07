@@ -8,5 +8,9 @@
 import Foundation
 
 let climbingStairs = ClimbingStairs()
-let result = climbingStairs.climbStairs(5)
-print(result)
+let result1 = climbingStairs.climbStairs(5)
+print(result1)
+
+let removeDuplicatesFromSortedList = RemoveDuplicatesFromSortedList()
+let result2 = removeDuplicatesFromSortedList.deleteDuplicates(ListNode(5))
+print(result2)
