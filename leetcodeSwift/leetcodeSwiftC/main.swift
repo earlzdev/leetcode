@@ -27,3 +27,4 @@ import Foundation
 //let nums2 = [2, 5, 6]
 //let n = 3
 //mergeSortedArray.merge(&nums1, m, nums2, n)
+
