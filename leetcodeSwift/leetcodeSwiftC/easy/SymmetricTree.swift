@@ -53,7 +53,7 @@ import Foundation
 //        }
 //    }
 //
-//    func traverseRightSubTree(subTree: TreeNode?, nodesList: inout [Int?]) {
+//    func traverseRightSubTree(subTree: TreeNode?, nodesList: inout  [Int?]) {
 //        if subTree != nil {
 //            if subTree?.right != nil {
 //                nodesList.append(subTree?.right?.val ?? 0)

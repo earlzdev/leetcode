@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		840398402A0C033B0087DA70 /* SymmetricTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8403983F2A0C033B0087DA70 /* SymmetricTree.swift */; };
+		841968F62A0CDAFA00E08375 /* 104. Maximum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841968F52A0CDAFA00E08375 /* 104. Maximum Depth of Binary Tree.swift */; };
 		84696B1B2A0B50CA00BEE76E /* SameTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84696B1A2A0B50CA00BEE76E /* SameTree.swift */; };
 		848909912A0429550066A414 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848909902A0429550066A414 /* main.swift */; };
 		848909992A042A130066A414 /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848909982A042A130066A414 /* ClimbingStairs.swift */; };
@@ -31,6 +32,7 @@
 
 /* Begin PBXFileReference section */
 		8403983F2A0C033B0087DA70 /* SymmetricTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymmetricTree.swift; sourceTree = "<group>"; };
+		841968F52A0CDAFA00E08375 /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. Maximum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 		84696B1A2A0B50CA00BEE76E /* SameTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SameTree.swift; sourceTree = "<group>"; };
 		8489098D2A0429550066A414 /* leetcodeSwiftC */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcodeSwiftC; sourceTree = BUILT_PRODUCTS_DIR; };
 		848909902A0429550066A414 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				8492A6242A0A0B3E0098CEC9 /* BinaryTreeInorderTraversal.swift */,
 				84696B1A2A0B50CA00BEE76E /* SameTree.swift */,
 				8403983F2A0C033B0087DA70 /* SymmetricTree.swift */,
+				841968F52A0CDAFA00E08375 /* 104. Maximum Depth of Binary Tree.swift */,
 			);
 			path = easy;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84696B1B2A0B50CA00BEE76E /* SameTree.swift in Sources */,
+				841968F62A0CDAFA00E08375 /* 104. Maximum Depth of Binary Tree.swift in Sources */,
 				84DF0DD22A0768E8008F2395 /* RemoveDuplicatesFromSortedList.swift in Sources */,
 				848909912A0429550066A414 /* main.swift in Sources */,
 				840398402A0C033B0087DA70 /* SymmetricTree.swift in Sources */,
