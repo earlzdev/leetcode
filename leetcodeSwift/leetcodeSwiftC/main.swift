@@ -28,3 +28,10 @@ import Foundation
 //let n = 3
 //mergeSortedArray.merge(&nums1, m, nums2, n)
 
+//let convertSortedArrayToBst = ConvertSortedArrayToBst()
+//let result = convertSortedArrayToBst.sortedArrayToBST([-10,-3,0,5,9])
+//let result = convertSortedArrayToBst.sortedArrayToBST([0,1,2,3,4,5])
+//let result = convertSortedArrayToBst.sortedArrayToBST([1, 3])
+//print(result)
+
+
