@@ -21,32 +21,30 @@ import Foundation
 //    }
 //}
 //
-
-//not solved
+//
+////solved
 //class BalancedBinaryTree {
+//
+//    var isBalanced: Bool = true
+//
 //    func isBalanced(_ root: TreeNode?) -> Bool {
-//        var leftNodes: [Int] = []
-//        var rightNodes: [Int] = []
-//        traverseLeftSubTree(node: root?.left, nodes: &leftNodes)
-//        traverseRightSubTree(node: root?.right, nodes: &rightNodes)
-//        print("left -> \(leftNodes)")
-//        print("right -> \(rightNodes)")
-//        return false
-//    }
-//
-//    func traverseLeftSubTree(node: TreeNode?, nodes: inout [Int]) {
-//        if node != nil {
-//            traverseLeftSubTree(node: node?.left, nodes: &nodes)
-//            nodes.append(node?.val ?? 0)
-//            traverseLeftSubTree(node: node?.right, nodes: &nodes)
+//        if root == nil {
+//            return true
 //        }
+//        maxDepth(root: root)
+//        return isBalanced
 //    }
 //
-//    func traverseRightSubTree(node: TreeNode?, nodes: inout [Int]) {
-//        if node != nil {
-//            traverseRightSubTree(node: node?.right, nodes: &nodes)
-//            nodes.append(node?.val ?? 0)
-//            traverseRightSubTree(node: node?.right, nodes: &nodes)
+//    func maxDepth(root: TreeNode?) -> Int {
+//        if root == nil {
+//            return 0
+//        } else {
+//            var leftDepth = maxDepth(root: root?.left)
+//            var rightDepth = maxDepth(root: root?.right)
+//            if abs(leftDepth - rightDepth) > 1 {
+//                isBalanced = false
+//            }
+//            return max(leftDepth, rightDepth) + 1
 //        }
 //    }
 //}

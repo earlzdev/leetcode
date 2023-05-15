@@ -13,6 +13,7 @@
 		84696B1B2A0B50CA00BEE76E /* SameTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84696B1A2A0B50CA00BEE76E /* SameTree.swift */; };
 		848909912A0429550066A414 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848909902A0429550066A414 /* main.swift */; };
 		848909992A042A130066A414 /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848909982A042A130066A414 /* ClimbingStairs.swift */; };
+		848CDAE02A11EA6B0009324F /* 111. Minimum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848CDADF2A11EA6B0009324F /* 111. Minimum Depth of Binary Tree.swift */; };
 		8492A6252A0A0B3E0098CEC9 /* BinaryTreeInorderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8492A6242A0A0B3E0098CEC9 /* BinaryTreeInorderTraversal.swift */; };
 		84BCF9642A0F3E34008B332A /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BCF9632A0F3E34008B332A /* 108. Convert Sorted Array to Binary Search Tree.swift */; };
 		84DF0DD22A0768E8008F2395 /* RemoveDuplicatesFromSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DF0DD12A0768E8008F2395 /* RemoveDuplicatesFromSortedList.swift */; };
@@ -40,6 +41,7 @@
 		8489098D2A0429550066A414 /* leetcodeSwiftC */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcodeSwiftC; sourceTree = BUILT_PRODUCTS_DIR; };
 		848909902A0429550066A414 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		848909982A042A130066A414 /* ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
+		848CDADF2A11EA6B0009324F /* 111. Minimum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "111. Minimum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 		8492A6242A0A0B3E0098CEC9 /* BinaryTreeInorderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeInorderTraversal.swift; sourceTree = "<group>"; };
 		84BCF9632A0F3E34008B332A /* 108. Convert Sorted Array to Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "108. Convert Sorted Array to Binary Search Tree.swift"; sourceTree = "<group>"; };
 		84DF0DD12A0768E8008F2395 /* RemoveDuplicatesFromSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedList.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 				841968F52A0CDAFA00E08375 /* 104. Maximum Depth of Binary Tree.swift */,
 				84BCF9632A0F3E34008B332A /* 108. Convert Sorted Array to Binary Search Tree.swift */,
 				8445BDAE2A10DB2700758334 /* 110. Balanced Binary Tree.swift */,
+				848CDADF2A11EA6B0009324F /* 111. Minimum Depth of Binary Tree.swift */,
 			);
 			path = easy;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 			files = (
 				84696B1B2A0B50CA00BEE76E /* SameTree.swift in Sources */,
 				841968F62A0CDAFA00E08375 /* 104. Maximum Depth of Binary Tree.swift in Sources */,
+				848CDAE02A11EA6B0009324F /* 111. Minimum Depth of Binary Tree.swift in Sources */,
 				84BCF9642A0F3E34008B332A /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */,
 				84DF0DD22A0768E8008F2395 /* RemoveDuplicatesFromSortedList.swift in Sources */,
 				848909912A0429550066A414 /* main.swift in Sources */,

@@ -7,6 +7,7 @@
 
 import Foundation
 
+//solved
 class ClimbingStairs {
     func climbStairs(_ n: Int) -> Int {
             var a = 0
