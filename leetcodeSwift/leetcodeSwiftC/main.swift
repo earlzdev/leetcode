@@ -34,4 +34,10 @@ import Foundation
 //let result = convertSortedArrayToBst.sortedArrayToBST([1, 3])
 //print(result)
 
+let pascalTriangle = PascalTriangle()
+let result = pascalTriangle.generate(15)
+print(result)
 
+let pascalTriangle2 = PascalTriangle2()
+let result2 = pascalTriangle2.getRow(7)
+print(result2)
