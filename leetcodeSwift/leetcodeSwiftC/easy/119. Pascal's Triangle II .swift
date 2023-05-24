@@ -8,34 +8,45 @@
 import Foundation
 
 
-// not solved
+// solved
 class PascalTriangle2 {
     
     func getRow(_ rowIndex: Int) -> [Int] {
-        var nums = Array(repeating: 0, count: rowIndex)
-        var subNum = Array(repeating: 0, count: rowIndex / 2)
-        for i in 0..<nums.count / 2 {
-            if i == 0 {
-                subNum[i] = 1
-            } else if i == 1 {
-                subNum[i] = rowIndex - 1
-            } else {
-                subNum[i] = rowIndex - 2
-            }
+//        // ?
+        if rowIndex == 0 {
+            return [1]
         }
-        print(subNum)
-        
-//        if rowIndex > 2 {
-//            for i in nums.indices {
-//                if i == 0 {
-//                    nums[i] = 1
-//                } else if i == nums.count - 1 {
-//                    nums[i] = 1
-//                } else if i == 1 {
-//                    nums[i] = rowIndex - 1
+        var ans = [Int](repeating: 1, count: rowIndex+1)
+        for i in 1...rowIndex {
+            ans[i] = ans[i-1]*(rowIndex-i+1)/i
+        }
+        return ans
+    }
+    
+    
+    // not optimal solution
+//    func getRow(_ rowIndex: Int) -> [Int] {
+//        var readyNum: [[Int]] = [[1]]
+//        var prevArr: [Int] = []
+//        for _ in 1...rowIndex + 1 {
+//            if prevArr.isEmpty {
+//                prevArr = [1]
+//            } else if prevArr == [1] {
+//                readyNum.append([1, 1])
+//                prevArr = [1, 1]
+//            } else if prevArr == [1, 1] {
+//                readyNum.append([1, 2, 1])
+//                prevArr = [1, 2, 1]
+//            } else {
+//                var nums: [Int] = []
+//                nums.append(1)
+//                for i in 1...prevArr.count - 1 {
+//                    nums.append(prevArr[i - 1] + prevArr[i])
 //                }
+//                nums.append(1)
+//                prevArr = nums
+//                readyNum.append(nums)
 //            }
 //        }
-        return nums
-    }
+//    }
 }
