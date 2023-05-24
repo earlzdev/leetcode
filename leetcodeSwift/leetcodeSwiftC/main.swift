@@ -34,10 +34,19 @@ import Foundation
 //let result = convertSortedArrayToBst.sortedArrayToBST([1, 3])
 //print(result)
 
-let pascalTriangle = PascalTriangle()
-let result = pascalTriangle.generate(15)
-print(result)
+//let pascalTriangle = PascalTriangle()
+//let result = pascalTriangle.generate(15)
+//print(result)
+//
+//let pascalTriangle2 = PascalTriangle2()
+//let result2 = pascalTriangle2.getRow(8)
+//print(result2)
 
-let pascalTriangle2 = PascalTriangle2()
-let result2 = pascalTriangle2.getRow(7)
-print(result2)
+//let bestTimeToBuyAndSellStock = BestTimeToBuyAndSellStock()
+//let result = bestTimeToBuyAndSellStock.maxProfit([7,1,5,3,6,4])
+//let result = bestTimeToBuyAndSellStock.maxProfit([7,4,4,3,1])
+//let result = bestTimeToBuyAndSellStock.maxProfit([1,2])
+//print(result)
+
+//let validPalindrome = ValidPalindrome()
+//print(validPalindrome.isPalindrome("aa"))
