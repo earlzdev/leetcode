@@ -50,3 +50,8 @@ import Foundation
 
 //let validPalindrome = ValidPalindrome()
 //print(validPalindrome.isPalindrome("aa"))
+
+let excel = ExcelSheetColumnTitle()
+print(excel.convertToTitle(2147483647))
+//print(excel.convertToTitle(2147483647))
+//print(excel.convertToTitle(28))
