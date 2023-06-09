@@ -51,7 +51,13 @@ import Foundation
 //let validPalindrome = ValidPalindrome()
 //print(validPalindrome.isPalindrome("aa"))
 
-let excel = ExcelSheetColumnTitle()
-print(excel.convertToTitle(2147483647))
+//let excel = ExcelSheetColumnTitle()
+//print(excel.convertToTitle(2147483647))
 //print(excel.convertToTitle(2147483647))
 //print(excel.convertToTitle(28))
+
+//let majorityElement = MajorityElement()
+//print(majorityElement.majorityElement([2,2,1,1,1,2,2]))
+
+//let happyNumber = HappyNumber()
+//print(happyNumber.isHappy(2))
