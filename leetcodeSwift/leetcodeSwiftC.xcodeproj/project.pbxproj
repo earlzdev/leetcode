@@ -24,6 +24,7 @@
 		848909992A042A130066A414 /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848909982A042A130066A414 /* ClimbingStairs.swift */; };
 		848CDAE02A11EA6B0009324F /* 111. Minimum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848CDADF2A11EA6B0009324F /* 111. Minimum Depth of Binary Tree.swift */; };
 		8492A6252A0A0B3E0098CEC9 /* BinaryTreeInorderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8492A6242A0A0B3E0098CEC9 /* BinaryTreeInorderTraversal.swift */; };
+		84B822702A36E7C500827BD7 /* 203. Remove Linked List Elements .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B8226F2A36E7C500827BD7 /* 203. Remove Linked List Elements .swift */; };
 		84BCE0622A173C42009E2745 /* 118. Pascal's Triangle .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BCE0612A173C42009E2745 /* 118. Pascal's Triangle .swift */; };
 		84BCF9642A0F3E34008B332A /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BCF9632A0F3E34008B332A /* 108. Convert Sorted Array to Binary Search Tree.swift */; };
 		84DF0DD22A0768E8008F2395 /* RemoveDuplicatesFromSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DF0DD12A0768E8008F2395 /* RemoveDuplicatesFromSortedList.swift */; };
@@ -66,6 +67,7 @@
 		848909982A042A130066A414 /* ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
 		848CDADF2A11EA6B0009324F /* 111. Minimum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "111. Minimum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 		8492A6242A0A0B3E0098CEC9 /* BinaryTreeInorderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeInorderTraversal.swift; sourceTree = "<group>"; };
+		84B8226F2A36E7C500827BD7 /* 203. Remove Linked List Elements .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "203. Remove Linked List Elements .swift"; sourceTree = "<group>"; };
 		84BCE0612A173C42009E2745 /* 118. Pascal's Triangle .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle .swift"; sourceTree = "<group>"; };
 		84BCF9632A0F3E34008B332A /* 108. Convert Sorted Array to Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "108. Convert Sorted Array to Binary Search Tree.swift"; sourceTree = "<group>"; };
 		84DF0DD12A0768E8008F2395 /* RemoveDuplicatesFromSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedList.swift; sourceTree = "<group>"; };
@@ -141,6 +143,7 @@
 				8424F5D52A31802400D2CFED /* 190. Reverse Bits.swift */,
 				84DF6F2E2A32D1780027D8D4 /* 191. Number of 1 Bits .swift */,
 				84DF6F302A32D43D0027D8D4 /* 202. Happy Number.swift */,
+				84B8226F2A36E7C500827BD7 /* 203. Remove Linked List Elements .swift */,
 			);
 			path = easy;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				848909912A0429550066A414 /* main.swift in Sources */,
 				84741D2F2A1C69A100F428C5 /* 125. Valid Palindrome .swift in Sources */,
 				840ED8352A1F2C4C00ACC989 /* 144. Binary Tree Preorder Traversal .swift in Sources */,
+				84B822702A36E7C500827BD7 /* 203. Remove Linked List Elements .swift in Sources */,
 				840398402A0C033B0087DA70 /* SymmetricTree.swift in Sources */,
 				8480FD452A1882C100A1D5DF /* 119. Pascal's Triangle II .swift in Sources */,
 				84EAEE4A2A08B5E50025A6FA /* MatrixDiagonalSum.swift in Sources */,
