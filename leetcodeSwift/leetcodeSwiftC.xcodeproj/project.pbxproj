@@ -18,6 +18,7 @@
 		846D27C22A396AC700DA2B59 /* 206. Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846D27C12A396AC700DA2B59 /* 206. Reverse Linked List.swift */; };
 		8473170E2A1B17AA00D665A0 /* 121. Best Time to Buy and Sell Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8473170D2A1B17AA00D665A0 /* 121. Best Time to Buy and Sell Stock.swift */; };
 		84741D2F2A1C69A100F428C5 /* 125. Valid Palindrome .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84741D2E2A1C69A100F428C5 /* 125. Valid Palindrome .swift */; };
+		847AE3AD2A45491C00F60440 /* 257. Binary Tree Paths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847AE3AC2A45491C00F60440 /* 257. Binary Tree Paths.swift */; };
 		847B42542A381ABE00842AAC /* 205. Isomorphic Strings .swift in Sources */ = {isa = PBXBuildFile; fileRef = 847B42532A381ABE00842AAC /* 205. Isomorphic Strings .swift */; };
 		8480FD452A1882C100A1D5DF /* 119. Pascal's Triangle II .swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480FD442A1882C100A1D5DF /* 119. Pascal's Triangle II .swift */; };
 		8482D7CD2A26F8F900320062 /* 168. Excel Sheet Column Title .swift in Sources */ = {isa = PBXBuildFile; fileRef = 8482D7CC2A26F8F900320062 /* 168. Excel Sheet Column Title .swift */; };
@@ -27,8 +28,10 @@
 		848909992A042A130066A414 /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848909982A042A130066A414 /* ClimbingStairs.swift */; };
 		848CDAE02A11EA6B0009324F /* 111. Minimum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848CDADF2A11EA6B0009324F /* 111. Minimum Depth of Binary Tree.swift */; };
 		8492A6252A0A0B3E0098CEC9 /* BinaryTreeInorderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8492A6242A0A0B3E0098CEC9 /* BinaryTreeInorderTraversal.swift */; };
+		84AECB452A493EDE00D9F75A /* 290. Word Pattern .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AECB442A493EDE00D9F75A /* 290. Word Pattern .swift */; };
 		84B32F032A4154AD0084AA3B /* 226. Invert Binary Tree .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B32F022A4154AD0084AA3B /* 226. Invert Binary Tree .swift */; };
 		84B822702A36E7C500827BD7 /* 203. Remove Linked List Elements .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B8226F2A36E7C500827BD7 /* 203. Remove Linked List Elements .swift */; };
+		84BACD122A43F7210046E767 /* 242. Valid Anagram .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BACD112A43F7210046E767 /* 242. Valid Anagram .swift */; };
 		84BCE0622A173C42009E2745 /* 118. Pascal's Triangle .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BCE0612A173C42009E2745 /* 118. Pascal's Triangle .swift */; };
 		84BCF9642A0F3E34008B332A /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BCF9632A0F3E34008B332A /* 108. Convert Sorted Array to Binary Search Tree.swift */; };
 		84D1862C2A3ABDCF00DE06C4 /* 217. Contains Duplicate .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D1862B2A3ABDCF00DE06C4 /* 217. Contains Duplicate .swift */; };
@@ -65,6 +68,7 @@
 		846D27C12A396AC700DA2B59 /* 206. Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. Reverse Linked List.swift"; sourceTree = "<group>"; };
 		8473170D2A1B17AA00D665A0 /* 121. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "121. Best Time to Buy and Sell Stock.swift"; sourceTree = "<group>"; };
 		84741D2E2A1C69A100F428C5 /* 125. Valid Palindrome .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "125. Valid Palindrome .swift"; sourceTree = "<group>"; };
+		847AE3AC2A45491C00F60440 /* 257. Binary Tree Paths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "257. Binary Tree Paths.swift"; sourceTree = "<group>"; };
 		847B42532A381ABE00842AAC /* 205. Isomorphic Strings .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "205. Isomorphic Strings .swift"; sourceTree = "<group>"; };
 		8480FD442A1882C100A1D5DF /* 119. Pascal's Triangle II .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "119. Pascal's Triangle II .swift"; sourceTree = "<group>"; };
 		8482D7CC2A26F8F900320062 /* 168. Excel Sheet Column Title .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "168. Excel Sheet Column Title .swift"; sourceTree = "<group>"; };
@@ -75,8 +79,10 @@
 		848909982A042A130066A414 /* ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
 		848CDADF2A11EA6B0009324F /* 111. Minimum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "111. Minimum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 		8492A6242A0A0B3E0098CEC9 /* BinaryTreeInorderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeInorderTraversal.swift; sourceTree = "<group>"; };
+		84AECB442A493EDE00D9F75A /* 290. Word Pattern .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern .swift"; sourceTree = "<group>"; };
 		84B32F022A4154AD0084AA3B /* 226. Invert Binary Tree .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "226. Invert Binary Tree .swift"; sourceTree = "<group>"; };
 		84B8226F2A36E7C500827BD7 /* 203. Remove Linked List Elements .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "203. Remove Linked List Elements .swift"; sourceTree = "<group>"; };
+		84BACD112A43F7210046E767 /* 242. Valid Anagram .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "242. Valid Anagram .swift"; sourceTree = "<group>"; };
 		84BCE0612A173C42009E2745 /* 118. Pascal's Triangle .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle .swift"; sourceTree = "<group>"; };
 		84BCF9632A0F3E34008B332A /* 108. Convert Sorted Array to Binary Search Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "108. Convert Sorted Array to Binary Search Tree.swift"; sourceTree = "<group>"; };
 		84D1862B2A3ABDCF00DE06C4 /* 217. Contains Duplicate .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "217. Contains Duplicate .swift"; sourceTree = "<group>"; };
@@ -159,6 +165,9 @@
 				84D1862B2A3ABDCF00DE06C4 /* 217. Contains Duplicate .swift */,
 				841A45532A3E188F0010FEFA /* 219. Contains Duplicate II .swift */,
 				84B32F022A4154AD0084AA3B /* 226. Invert Binary Tree .swift */,
+				84BACD112A43F7210046E767 /* 242. Valid Anagram .swift */,
+				847AE3AC2A45491C00F60440 /* 257. Binary Tree Paths.swift */,
+				84AECB442A493EDE00D9F75A /* 290. Word Pattern .swift */,
 			);
 			path = easy;
 			sourceTree = "<group>";
@@ -225,6 +234,7 @@
 				84DF6F2F2A32D1780027D8D4 /* 191. Number of 1 Bits .swift in Sources */,
 				84BCE0622A173C42009E2745 /* 118. Pascal's Triangle .swift in Sources */,
 				84DF6F312A32D43D0027D8D4 /* 202. Happy Number.swift in Sources */,
+				847AE3AD2A45491C00F60440 /* 257. Binary Tree Paths.swift in Sources */,
 				841968F62A0CDAFA00E08375 /* 104. Maximum Depth of Binary Tree.swift in Sources */,
 				84D1862C2A3ABDCF00DE06C4 /* 217. Contains Duplicate .swift in Sources */,
 				848CDAE02A11EA6B0009324F /* 111. Minimum Depth of Binary Tree.swift in Sources */,
@@ -242,6 +252,7 @@
 				840398402A0C033B0087DA70 /* SymmetricTree.swift in Sources */,
 				8480FD452A1882C100A1D5DF /* 119. Pascal's Triangle II .swift in Sources */,
 				84EAEE4A2A08B5E50025A6FA /* MatrixDiagonalSum.swift in Sources */,
+				84AECB452A493EDE00D9F75A /* 290. Word Pattern .swift in Sources */,
 				846D27C22A396AC700DA2B59 /* 206. Reverse Linked List.swift in Sources */,
 				8482D7CD2A26F8F900320062 /* 168. Excel Sheet Column Title .swift in Sources */,
 				8424F5D62A31802400D2CFED /* 190. Reverse Bits.swift in Sources */,
@@ -252,6 +263,7 @@
 				8487AB1C2A25A33900B62D57 /* 145. Binary Tree Postorder Traversal .swift in Sources */,
 				8492A6252A0A0B3E0098CEC9 /* BinaryTreeInorderTraversal.swift in Sources */,
 				841A45542A3E188F0010FEFA /* 219. Contains Duplicate II .swift in Sources */,
+				84BACD122A43F7210046E767 /* 242. Valid Anagram .swift in Sources */,
 				84DF0DD42A076EAA008F2395 /* MergeSortedArray.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -62,7 +62,10 @@ import Foundation
 //let happyNumber = HappyNumber()
 //print(happyNumber.isHappy(2))
 
-let head: ListNode = ListNode.init(1, ListNode.init(2, ListNode.init(3, ListNode.init(4, ListNode.init(5, ListNode.init(6, ListNode.init(7)))))))
+//let head: ListNode = ListNode.init(1, ListNode.init(2, ListNode.init(3, ListNode.init(4, ListNode.init(5, ListNode.init(6, ListNode.init(7)))))))
 
-let reverseLinkedList = ReverseLinkedList()
-print(reverseLinkedList.reverseList(head))
+//let reverseLinkedList = ReverseLinkedList()
+//print(reverseLinkedList.reverseList(head))
+
+let wordPattern = WordPattern()
+wordPattern.wordPattern("abba", "dog cat cat dog")
