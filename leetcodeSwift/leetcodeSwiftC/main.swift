@@ -67,5 +67,14 @@ import Foundation
 //let reverseLinkedList = ReverseLinkedList()
 //print(reverseLinkedList.reverseList(head))
 
-let wordPattern = WordPattern()
-wordPattern.wordPattern("abba", "dog cat cat dog")
+//let wordPattern = WordPattern()
+//wordPattern.wordPattern("abba", "dog cat cat dog")
+
+//let reverseVowels = ReverseVowelsOfAString()
+//reverseVowels.reverseVowels("leetcode")
+
+//let findDIfference = FindDifference()
+//print(findDIfference.findTheDifference("a", "aa"))
+
+let isSubsequence = isSubsequenceTask()
+print(isSubsequence.isSubsequence("abc", "ahbgdc"))
