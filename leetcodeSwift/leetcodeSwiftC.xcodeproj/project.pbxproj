@@ -15,6 +15,7 @@
 		842EDF2D2A5BB32200E04513 /* 412. Fizz Buzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842EDF2C2A5BB32200E04513 /* 412. Fizz Buzz.swift */; };
 		843ED7E92A5134150004C4B6 /* 383. Ransom Note .swift in Sources */ = {isa = PBXBuildFile; fileRef = 843ED7E82A5134150004C4B6 /* 383. Ransom Note .swift */; };
 		8445BDAF2A10DB2700758334 /* 110. Balanced Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8445BDAE2A10DB2700758334 /* 110. Balanced Binary Tree.swift */; };
+		8459E36A2A5D02FE000978ED /* 415. Add Strings .swift in Sources */ = {isa = PBXBuildFile; fileRef = 8459E3692A5D02FE000978ED /* 415. Add Strings .swift */; };
 		84696B1B2A0B50CA00BEE76E /* SameTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84696B1A2A0B50CA00BEE76E /* SameTree.swift */; };
 		846A56CB2A2EDDB20039493E /* 169. Majority Element .swift in Sources */ = {isa = PBXBuildFile; fileRef = 846A56CA2A2EDDB20039493E /* 169. Majority Element .swift */; };
 		846D27C22A396AC700DA2B59 /* 206. Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846D27C12A396AC700DA2B59 /* 206. Reverse Linked List.swift */; };
@@ -73,6 +74,7 @@
 		842EDF2C2A5BB32200E04513 /* 412. Fizz Buzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "412. Fizz Buzz.swift"; sourceTree = "<group>"; };
 		843ED7E82A5134150004C4B6 /* 383. Ransom Note .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "383. Ransom Note .swift"; sourceTree = "<group>"; };
 		8445BDAE2A10DB2700758334 /* 110. Balanced Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "110. Balanced Binary Tree.swift"; sourceTree = "<group>"; };
+		8459E3692A5D02FE000978ED /* 415. Add Strings .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "415. Add Strings .swift"; sourceTree = "<group>"; };
 		84696B1A2A0B50CA00BEE76E /* SameTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SameTree.swift; sourceTree = "<group>"; };
 		846A56CA2A2EDDB20039493E /* 169. Majority Element .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "169. Majority Element .swift"; sourceTree = "<group>"; };
 		846D27C12A396AC700DA2B59 /* 206. Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. Reverse Linked List.swift"; sourceTree = "<group>"; };
@@ -192,6 +194,7 @@
 				84C1093D2A55650700930591 /* 392. Is Subsequence .swift */,
 				8491708C2A566F24001EA29A /* 409. Longest Palindrome .swift */,
 				842EDF2C2A5BB32200E04513 /* 412. Fizz Buzz.swift */,
+				8459E3692A5D02FE000978ED /* 415. Add Strings .swift */,
 			);
 			path = easy;
 			sourceTree = "<group>";
@@ -283,6 +286,7 @@
 				8480FD452A1882C100A1D5DF /* 119. Pascal's Triangle II .swift in Sources */,
 				84EAEE4A2A08B5E50025A6FA /* MatrixDiagonalSum.swift in Sources */,
 				843ED7E92A5134150004C4B6 /* 383. Ransom Note .swift in Sources */,
+				8459E36A2A5D02FE000978ED /* 415. Add Strings .swift in Sources */,
 				842EDF2D2A5BB32200E04513 /* 412. Fizz Buzz.swift in Sources */,
 				84AECB452A493EDE00D9F75A /* 290. Word Pattern .swift in Sources */,
 				846D27C22A396AC700DA2B59 /* 206. Reverse Linked List.swift in Sources */,
