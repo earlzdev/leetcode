@@ -76,5 +76,9 @@ import Foundation
 //let findDIfference = FindDifference()
 //print(findDIfference.findTheDifference("a", "aa"))
 
-let isSubsequence = isSubsequenceTask()
-print(isSubsequence.isSubsequence("abc", "ahbgdc"))
+//let isSubsequence = isSubsequenceTask()
+//print(isSubsequence.isSubsequence("abc", "ahbgdc"))
+
+let addString = AddStrings()
+//print(addString.addStrings("3876620623801494171", "6529364523802684779"))
+print(addString.addStrings("456", "77"))
