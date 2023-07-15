@@ -15,6 +15,7 @@
 		842EDF2D2A5BB32200E04513 /* 412. Fizz Buzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842EDF2C2A5BB32200E04513 /* 412. Fizz Buzz.swift */; };
 		843ED7E92A5134150004C4B6 /* 383. Ransom Note .swift in Sources */ = {isa = PBXBuildFile; fileRef = 843ED7E82A5134150004C4B6 /* 383. Ransom Note .swift */; };
 		8445BDAF2A10DB2700758334 /* 110. Balanced Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8445BDAE2A10DB2700758334 /* 110. Balanced Binary Tree.swift */; };
+		844F58D22A5E407B008914D9 /* 434. Number of Segments in a String .swift in Sources */ = {isa = PBXBuildFile; fileRef = 844F58D12A5E407B008914D9 /* 434. Number of Segments in a String .swift */; };
 		8459E36A2A5D02FE000978ED /* 415. Add Strings .swift in Sources */ = {isa = PBXBuildFile; fileRef = 8459E3692A5D02FE000978ED /* 415. Add Strings .swift */; };
 		84696B1B2A0B50CA00BEE76E /* SameTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84696B1A2A0B50CA00BEE76E /* SameTree.swift */; };
 		846A56CB2A2EDDB20039493E /* 169. Majority Element .swift in Sources */ = {isa = PBXBuildFile; fileRef = 846A56CA2A2EDDB20039493E /* 169. Majority Element .swift */; };
@@ -25,6 +26,7 @@
 		847B42542A381ABE00842AAC /* 205. Isomorphic Strings .swift in Sources */ = {isa = PBXBuildFile; fileRef = 847B42532A381ABE00842AAC /* 205. Isomorphic Strings .swift */; };
 		8480FD452A1882C100A1D5DF /* 119. Pascal's Triangle II .swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480FD442A1882C100A1D5DF /* 119. Pascal's Triangle II .swift */; };
 		8482D7CD2A26F8F900320062 /* 168. Excel Sheet Column Title .swift in Sources */ = {isa = PBXBuildFile; fileRef = 8482D7CC2A26F8F900320062 /* 168. Excel Sheet Column Title .swift */; };
+		8486AA1F2A60F9D5007164E5 /* 482. License Key Formatting .swift in Sources */ = {isa = PBXBuildFile; fileRef = 8486AA1E2A60F9D5007164E5 /* 482. License Key Formatting .swift */; };
 		8487AB1C2A25A33900B62D57 /* 145. Binary Tree Postorder Traversal .swift in Sources */ = {isa = PBXBuildFile; fileRef = 8487AB1B2A25A33900B62D57 /* 145. Binary Tree Postorder Traversal .swift */; };
 		8487AB1E2A25AC2400B62D57 /* 160. Intersection of Two Linked Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8487AB1D2A25AC2400B62D57 /* 160. Intersection of Two Linked Lists.swift */; };
 		8488723C2A53BB2C00205518 /* 389. Find the Difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8488723B2A53BB2C00205518 /* 389. Find the Difference.swift */; };
@@ -35,6 +37,8 @@
 		8492A6252A0A0B3E0098CEC9 /* BinaryTreeInorderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8492A6242A0A0B3E0098CEC9 /* BinaryTreeInorderTraversal.swift */; };
 		84AECB452A493EDE00D9F75A /* 290. Word Pattern .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AECB442A493EDE00D9F75A /* 290. Word Pattern .swift */; };
 		84B32F032A4154AD0084AA3B /* 226. Invert Binary Tree .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B32F022A4154AD0084AA3B /* 226. Invert Binary Tree .swift */; };
+		84B386FF2A624B040094A79D /* 500. Keyboard Row.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 84B386FD2A624B040094A79D /* 500. Keyboard Row.cpp */; };
+		84B387012A62526E0094A79D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 84B387002A62526E0094A79D /* main.cpp */; };
 		84B822702A36E7C500827BD7 /* 203. Remove Linked List Elements .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84B8226F2A36E7C500827BD7 /* 203. Remove Linked List Elements .swift */; };
 		84BACD122A43F7210046E767 /* 242. Valid Anagram .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BACD112A43F7210046E767 /* 242. Valid Anagram .swift */; };
 		84BCE0622A173C42009E2745 /* 118. Pascal's Triangle .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BCE0612A173C42009E2745 /* 118. Pascal's Triangle .swift */; };
@@ -42,6 +46,7 @@
 		84C1093E2A55650700930591 /* 392. Is Subsequence .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C1093D2A55650700930591 /* 392. Is Subsequence .swift */; };
 		84C65D822A526B1100D640E7 /* 387. First Unique Character in a String .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C65D812A526B1100D640E7 /* 387. First Unique Character in a String .swift */; };
 		84D1862C2A3ABDCF00DE06C4 /* 217. Contains Duplicate .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D1862B2A3ABDCF00DE06C4 /* 217. Contains Duplicate .swift */; };
+		84D9F2842A5FB6EA00BC6A3E /* 459. Repeated Substring Pattern .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D9F2832A5FB6EA00BC6A3E /* 459. Repeated Substring Pattern .swift */; };
 		84DF0DD22A0768E8008F2395 /* RemoveDuplicatesFromSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DF0DD12A0768E8008F2395 /* RemoveDuplicatesFromSortedList.swift */; };
 		84DF0DD42A076EAA008F2395 /* MergeSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DF0DD32A076EAA008F2395 /* MergeSortedArray.swift */; };
 		84DF6F2F2A32D1780027D8D4 /* 191. Number of 1 Bits .swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DF6F2E2A32D1780027D8D4 /* 191. Number of 1 Bits .swift */; };
@@ -74,6 +79,7 @@
 		842EDF2C2A5BB32200E04513 /* 412. Fizz Buzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "412. Fizz Buzz.swift"; sourceTree = "<group>"; };
 		843ED7E82A5134150004C4B6 /* 383. Ransom Note .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "383. Ransom Note .swift"; sourceTree = "<group>"; };
 		8445BDAE2A10DB2700758334 /* 110. Balanced Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "110. Balanced Binary Tree.swift"; sourceTree = "<group>"; };
+		844F58D12A5E407B008914D9 /* 434. Number of Segments in a String .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "434. Number of Segments in a String .swift"; sourceTree = "<group>"; };
 		8459E3692A5D02FE000978ED /* 415. Add Strings .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "415. Add Strings .swift"; sourceTree = "<group>"; };
 		84696B1A2A0B50CA00BEE76E /* SameTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SameTree.swift; sourceTree = "<group>"; };
 		846A56CA2A2EDDB20039493E /* 169. Majority Element .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "169. Majority Element .swift"; sourceTree = "<group>"; };
@@ -84,6 +90,7 @@
 		847B42532A381ABE00842AAC /* 205. Isomorphic Strings .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "205. Isomorphic Strings .swift"; sourceTree = "<group>"; };
 		8480FD442A1882C100A1D5DF /* 119. Pascal's Triangle II .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "119. Pascal's Triangle II .swift"; sourceTree = "<group>"; };
 		8482D7CC2A26F8F900320062 /* 168. Excel Sheet Column Title .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "168. Excel Sheet Column Title .swift"; sourceTree = "<group>"; };
+		8486AA1E2A60F9D5007164E5 /* 482. License Key Formatting .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "482. License Key Formatting .swift"; sourceTree = "<group>"; };
 		8487AB1B2A25A33900B62D57 /* 145. Binary Tree Postorder Traversal .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "145. Binary Tree Postorder Traversal .swift"; sourceTree = "<group>"; };
 		8487AB1D2A25AC2400B62D57 /* 160. Intersection of Two Linked Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "160. Intersection of Two Linked Lists.swift"; sourceTree = "<group>"; };
 		8488723B2A53BB2C00205518 /* 389. Find the Difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "389. Find the Difference.swift"; sourceTree = "<group>"; };
@@ -95,6 +102,9 @@
 		8492A6242A0A0B3E0098CEC9 /* BinaryTreeInorderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeInorderTraversal.swift; sourceTree = "<group>"; };
 		84AECB442A493EDE00D9F75A /* 290. Word Pattern .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern .swift"; sourceTree = "<group>"; };
 		84B32F022A4154AD0084AA3B /* 226. Invert Binary Tree .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "226. Invert Binary Tree .swift"; sourceTree = "<group>"; };
+		84B386FD2A624B040094A79D /* 500. Keyboard Row.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "500. Keyboard Row.cpp"; sourceTree = "<group>"; };
+		84B386FE2A624B040094A79D /* 500. Keyboard Row.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "500. Keyboard Row.hpp"; sourceTree = "<group>"; };
+		84B387002A62526E0094A79D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		84B8226F2A36E7C500827BD7 /* 203. Remove Linked List Elements .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "203. Remove Linked List Elements .swift"; sourceTree = "<group>"; };
 		84BACD112A43F7210046E767 /* 242. Valid Anagram .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "242. Valid Anagram .swift"; sourceTree = "<group>"; };
 		84BCE0612A173C42009E2745 /* 118. Pascal's Triangle .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle .swift"; sourceTree = "<group>"; };
@@ -102,6 +112,7 @@
 		84C1093D2A55650700930591 /* 392. Is Subsequence .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "392. Is Subsequence .swift"; sourceTree = "<group>"; };
 		84C65D812A526B1100D640E7 /* 387. First Unique Character in a String .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "387. First Unique Character in a String .swift"; sourceTree = "<group>"; };
 		84D1862B2A3ABDCF00DE06C4 /* 217. Contains Duplicate .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "217. Contains Duplicate .swift"; sourceTree = "<group>"; };
+		84D9F2832A5FB6EA00BC6A3E /* 459. Repeated Substring Pattern .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "459. Repeated Substring Pattern .swift"; sourceTree = "<group>"; };
 		84DF0DD12A0768E8008F2395 /* RemoveDuplicatesFromSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedList.swift; sourceTree = "<group>"; };
 		84DF0DD32A076EAA008F2395 /* MergeSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSortedArray.swift; sourceTree = "<group>"; };
 		84DF6F2E2A32D1780027D8D4 /* 191. Number of 1 Bits .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "191. Number of 1 Bits .swift"; sourceTree = "<group>"; };
@@ -143,8 +154,8 @@
 		8489098F2A0429550066A414 /* leetcodeSwiftC */ = {
 			isa = PBXGroup;
 			children = (
-				848909972A0429BC0066A414 /* easy */,
-				848909902A0429550066A414 /* main.swift */,
+				84B386FB2A6248210094A79D /* c */,
+				84B386FA2A62481A0094A79D /* swift */,
 			);
 			path = leetcodeSwiftC;
 			sourceTree = "<group>";
@@ -195,6 +206,36 @@
 				8491708C2A566F24001EA29A /* 409. Longest Palindrome .swift */,
 				842EDF2C2A5BB32200E04513 /* 412. Fizz Buzz.swift */,
 				8459E3692A5D02FE000978ED /* 415. Add Strings .swift */,
+				844F58D12A5E407B008914D9 /* 434. Number of Segments in a String .swift */,
+				84D9F2832A5FB6EA00BC6A3E /* 459. Repeated Substring Pattern .swift */,
+				8486AA1E2A60F9D5007164E5 /* 482. License Key Formatting .swift */,
+			);
+			path = easy;
+			sourceTree = "<group>";
+		};
+		84B386FA2A62481A0094A79D /* swift */ = {
+			isa = PBXGroup;
+			children = (
+				848909902A0429550066A414 /* main.swift */,
+				848909972A0429BC0066A414 /* easy */,
+			);
+			path = swift;
+			sourceTree = "<group>";
+		};
+		84B386FB2A6248210094A79D /* c */ = {
+			isa = PBXGroup;
+			children = (
+				84B386FC2A6248320094A79D /* easy */,
+				84B387002A62526E0094A79D /* main.cpp */,
+			);
+			path = c;
+			sourceTree = "<group>";
+		};
+		84B386FC2A6248320094A79D /* easy */ = {
+			isa = PBXGroup;
+			children = (
+				84B386FD2A624B040094A79D /* 500. Keyboard Row.cpp */,
+				84B386FE2A624B040094A79D /* 500. Keyboard Row.hpp */,
 			);
 			path = easy;
 			sourceTree = "<group>";
@@ -231,6 +272,7 @@
 				TargetAttributes = {
 					8489098C2A0429550066A414 = {
 						CreatedOnToolsVersion = 14.2;
+						LastSwiftMigration = 1420;
 					};
 				};
 			};
@@ -273,6 +315,7 @@
 				8473170E2A1B17AA00D665A0 /* 121. Best Time to Buy and Sell Stock.swift in Sources */,
 				846A56CB2A2EDDB20039493E /* 169. Majority Element .swift in Sources */,
 				847B42542A381ABE00842AAC /* 205. Isomorphic Strings .swift in Sources */,
+				84B386FF2A624B040094A79D /* 500. Keyboard Row.cpp in Sources */,
 				84DF0DD22A0768E8008F2395 /* RemoveDuplicatesFromSortedList.swift in Sources */,
 				8487AB1E2A25AC2400B62D57 /* 160. Intersection of Two Linked Lists.swift in Sources */,
 				8488723C2A53BB2C00205518 /* 389. Find the Difference.swift in Sources */,
@@ -281,6 +324,8 @@
 				84B32F032A4154AD0084AA3B /* 226. Invert Binary Tree .swift in Sources */,
 				84741D2F2A1C69A100F428C5 /* 125. Valid Palindrome .swift in Sources */,
 				840ED8352A1F2C4C00ACC989 /* 144. Binary Tree Preorder Traversal .swift in Sources */,
+				84B387012A62526E0094A79D /* main.cpp in Sources */,
+				84D9F2842A5FB6EA00BC6A3E /* 459. Repeated Substring Pattern .swift in Sources */,
 				84B822702A36E7C500827BD7 /* 203. Remove Linked List Elements .swift in Sources */,
 				840398402A0C033B0087DA70 /* SymmetricTree.swift in Sources */,
 				8480FD452A1882C100A1D5DF /* 119. Pascal's Triangle II .swift in Sources */,
@@ -290,8 +335,10 @@
 				842EDF2D2A5BB32200E04513 /* 412. Fizz Buzz.swift in Sources */,
 				84AECB452A493EDE00D9F75A /* 290. Word Pattern .swift in Sources */,
 				846D27C22A396AC700DA2B59 /* 206. Reverse Linked List.swift in Sources */,
+				844F58D22A5E407B008914D9 /* 434. Number of Segments in a String .swift in Sources */,
 				8482D7CD2A26F8F900320062 /* 168. Excel Sheet Column Title .swift in Sources */,
 				8424F5D62A31802400D2CFED /* 190. Reverse Bits.swift in Sources */,
+				8486AA1F2A60F9D5007164E5 /* 482. License Key Formatting .swift in Sources */,
 				848909992A042A130066A414 /* ClimbingStairs.swift in Sources */,
 				8445BDAF2A10DB2700758334 /* 110. Balanced Binary Tree.swift in Sources */,
 				84F8F32F2A1E339000431F9C /* 141. Linked List Cycle.swift in Sources */,
@@ -423,10 +470,17 @@
 		848909952A0429550066A414 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = J473GY97U7;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -434,9 +488,15 @@
 		848909962A0429550066A414 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = J473GY97U7;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
