@@ -79,6 +79,12 @@ import Foundation
 //let isSubsequence = isSubsequenceTask()
 //print(isSubsequence.isSubsequence("abc", "ahbgdc"))
 
-let addString = AddStrings()
+//let addString = AddStrings()
 //print(addString.addStrings("3876620623801494171", "6529364523802684779"))
-print(addString.addStrings("456", "77"))
+//print(addString.addStrings("456", "77"))
+
+//let numberOfSegmentsInAString = NumberOfSegmentsInAString()
+//print(numberOfSegmentsInAString.countSegments("raz dva tri"))
+
+//let repeatedSubstringPattern = RepeatedSubstringPattern()
+//print(repeatedSubstringPattern.repeatedSubstringPattern("ababab"))
