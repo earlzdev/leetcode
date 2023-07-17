@@ -88,3 +88,6 @@ import Foundation
 
 //let repeatedSubstringPattern = RepeatedSubstringPattern()
 //print(repeatedSubstringPattern.repeatedSubstringPattern("ababab"))
+
+let detectCapital = DetectCapital()
+print(detectCapital.detectCapitalUse("FlaG"))
