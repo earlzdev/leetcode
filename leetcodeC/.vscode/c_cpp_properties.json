@@ -3,7 +3,7 @@
         {
             "name": "Mac",
             "includePath": [
-                "/Users/admin/leetcodeC/**",
+                "/Users/admin/IdeaProjects/leetcode/leetcodeC/easy",
                 "${workspaceFolder}/**",
                 "${workspaceFolder}/easy"
             ],
