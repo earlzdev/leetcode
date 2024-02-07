@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		840398402A0C033B0087DA70 /* SymmetricTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8403983F2A0C033B0087DA70 /* SymmetricTree.swift */; };
 		840ED8352A1F2C4C00ACC989 /* 144. Binary Tree Preorder Traversal .swift in Sources */ = {isa = PBXBuildFile; fileRef = 840ED8342A1F2C4C00ACC989 /* 144. Binary Tree Preorder Traversal .swift */; };
+		8414590E2B453300006F4BC5 /* 961. N-Repeated Element in Size 2N Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8414590D2B453300006F4BC5 /* 961. N-Repeated Element in Size 2N Array.swift */; };
 		841968F62A0CDAFA00E08375 /* 104. Maximum Depth of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841968F52A0CDAFA00E08375 /* 104. Maximum Depth of Binary Tree.swift */; };
 		841A45542A3E188F0010FEFA /* 219. Contains Duplicate II .swift in Sources */ = {isa = PBXBuildFile; fileRef = 841A45532A3E188F0010FEFA /* 219. Contains Duplicate II .swift */; };
 		8424F5D62A31802400D2CFED /* 190. Reverse Bits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8424F5D52A31802400D2CFED /* 190. Reverse Bits.swift */; };
@@ -73,6 +74,7 @@
 /* Begin PBXFileReference section */
 		8403983F2A0C033B0087DA70 /* SymmetricTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymmetricTree.swift; sourceTree = "<group>"; };
 		840ED8342A1F2C4C00ACC989 /* 144. Binary Tree Preorder Traversal .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. Binary Tree Preorder Traversal .swift"; sourceTree = "<group>"; };
+		8414590D2B453300006F4BC5 /* 961. N-Repeated Element in Size 2N Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "961. N-Repeated Element in Size 2N Array.swift"; sourceTree = "<group>"; };
 		841968F52A0CDAFA00E08375 /* 104. Maximum Depth of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. Maximum Depth of Binary Tree.swift"; sourceTree = "<group>"; };
 		841A45532A3E188F0010FEFA /* 219. Contains Duplicate II .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "219. Contains Duplicate II .swift"; sourceTree = "<group>"; };
 		8424F5D52A31802400D2CFED /* 190. Reverse Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "190. Reverse Bits.swift"; sourceTree = "<group>"; };
@@ -210,6 +212,7 @@
 				8486AA1E2A60F9D5007164E5 /* 482. License Key Formatting .swift */,
 				846108D62A63ADB700A6A230 /* 520. Detect Capital .swift */,
 				8474DBC12A77793600BFA5F3 /* 268. Missing Number .swift */,
+				8414590D2B453300006F4BC5 /* 961. N-Repeated Element in Size 2N Array.swift */,
 			);
 			path = easy;
 			sourceTree = "<group>";
@@ -288,6 +291,7 @@
 				848CDAE02A11EA6B0009324F /* 111. Minimum Depth of Binary Tree.swift in Sources */,
 				84BCF9642A0F3E34008B332A /* 108. Convert Sorted Array to Binary Search Tree.swift in Sources */,
 				8473170E2A1B17AA00D665A0 /* 121. Best Time to Buy and Sell Stock.swift in Sources */,
+				8414590E2B453300006F4BC5 /* 961. N-Repeated Element in Size 2N Array.swift in Sources */,
 				846A56CB2A2EDDB20039493E /* 169. Majority Element .swift in Sources */,
 				847B42542A381ABE00842AAC /* 205. Isomorphic Strings .swift in Sources */,
 				84DF0DD22A0768E8008F2395 /* RemoveDuplicatesFromSortedList.swift in Sources */,
